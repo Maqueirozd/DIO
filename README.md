@@ -1,1 +1,1 @@
-# Repositorio com exercicios da plataforma DIO
+# Repositorio com exercicios
